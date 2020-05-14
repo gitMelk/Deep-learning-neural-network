@@ -89,3 +89,6 @@ In the same folder, there are also the text generators for the following masterp
 - The Importance of Being Earnest by Wilde
 - La Divina Commedia by Dante
 - Le baruffe chiazzotte by Goldoni
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />For the papers, the license used is: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
