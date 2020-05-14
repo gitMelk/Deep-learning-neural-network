@@ -83,7 +83,7 @@ some characters;
 - with a softmax and a temperature tuned the final generated text in order for it to
 "make sense".
 Final test produced by the network, input seed "blood of my enemies": 
->blood of my enemies,<br>the kindnesse the death of all the world of care on my heart,<br>that will i makes be connedprans, >great vs, and buckingham be brought to salsbury:<br>richmond in ongre to the death with all the morning.<br>in command liue, to >greet the tender princes knees would haue it sode let to his <br>thrie dead:<br>the king mine vnckle is too blame for her lords >at pomfret, my lord of buckingham,<br>that appe outharies both vnkles that the moueare me forme,<br>and should be so dulling to >brother of thy faire and falthing dispaire and warre<br>mind heart,<br>that came 
+>blood of my enemies,<br>the kindnesse the death of all the world of care on my heart,<br>that will i makes be connedprans, great vs, and buckingham be brought to salsbury:<br>richmond in ongre to the death with all the morning.<br>in command liue, to greet the tender princes knees would haue it sode let to his <br>thrie dead:<br>the king mine vnckle is too blame for her lords at pomfret, my lord of buckingham,<br>that appe outharies both vnkles that the moueare me forme,<br>and should be so dulling to brother of thy faire and falthing dispaire and warre<br>mind heart,<br>that came 
 
 In the same folder, there are also the text generators for the following masterpieces: 
 - The Importance of Being Earnest by Wilde
