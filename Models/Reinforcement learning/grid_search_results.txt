@@ -1,0 +1,23 @@
+## Q-learning ## 
+
+For net #1, the average reward is: 0.1909
+For net #2, the average reward is: 0.2818
+For net #3, the average reward is: 0.1884
+For net #4, the average reward is: 0.2795
+
+## SARSA + e-greedy ## 
+
+For net #1, the average reward is: 0.1657
+For net #2, the average reward is: 0.2336
+For net #3, the average reward is: 0.1307
+For net #4, the average reward is: 0.2693
+
+## SARSA + softmax ## 
+
+For net #1, the average reward is: 0.7256
+For net #2, the average reward is: 0.8088
+For net #3, the average reward is: 0.7596
+For net #4, the average reward is: 0.8047
+
+## Winners
+[2, 4, 2]

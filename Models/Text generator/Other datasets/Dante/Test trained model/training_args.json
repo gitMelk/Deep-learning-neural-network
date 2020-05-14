@@ -1,0 +1,11 @@
+{
+    "datasetpath": "dante.txt",
+    "crop_len": 40,
+    "alphabet_len": 35,
+    "hidden_units": 256,
+    "layers_num": 2,
+    "dropout_prob": 0.3,
+    "batchsize": 5000,
+    "num_epochs": 80000,
+    "out_dir": "dante_model"
+}
