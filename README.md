@@ -11,6 +11,10 @@ The scripts are written in python 3.7.x, in order to run them you need:
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [numpy](https://numpy.org/)
 
+
+Here you can find the [Anaconda Environment](https://anaconda.org/rmelk/GPU_python/files) that I used. 
+
+![anaconda-badge](https://anaconda.org/rmelk/gpu_python/badges/version.svg) 
 >**The code has been made and tested with a nvidia GPU.** Even if some pieces of code should run (slower) even with your CPU, I can't be sure the entire script would run. 
 
 Inside every model's folder there is PDF with the full description of what I do and why from a theoretical point of view. 
