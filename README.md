@@ -5,8 +5,6 @@ A collection of four DLNN application:
 - Reinforcement learning
 - Text generator
 
-Clink on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitMelk/Deep-learning-neural-network/HEAD) to browse the repo and try the notebooks on your broser :) 
-
 The scripts are written in python 3.7.x, in order to run them you need: 
 - [pyTorch](https://pytorch.org) 
 - [scipy](https://www.scipy.org/)
